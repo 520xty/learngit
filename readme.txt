@@ -7,3 +7,4 @@ Creating a new branch is quick && simple.
 Creating a new branch is quick &&& simple.
 Creating a new branch is quick &&& simple && mnt.
 Creating a new branch is quick bug software && mnt.
+Creating a new branch is quick bug is bug software && mnt.
