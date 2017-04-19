@@ -10,3 +10,4 @@ Creating a new branch is quick bug software && mnt.
 Creating a new branch is quick bug is bug software && mnt.
 Creating a new branch is quick dev simple && dev.
 Creating a new branch is quick dev simple && dev && issue-101.
+Creating a new branch is quick &&&& simple & dev.
